@@ -158,4 +158,7 @@
       <Name>GAExample</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\events.png" />
+  </ItemGroup>
 </Project>
